@@ -1,5 +1,6 @@
-[
-  {
+{
+  "meals": [
+    {
     "id": 1,
     "name": "Healthy Homemade Granola",
     "imagePath": "https://joyfoodsunshine.com/wp-content/uploads/2017/08/healthy-homemade-granola-recipe-2.jpg",
@@ -29,6 +30,7 @@
     "calories" : "171"
    
   }
+    ]
  
   
-]
+}
