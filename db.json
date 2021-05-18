@@ -2,6 +2,7 @@
   "meals": [
     {
     "id": 1,
+    "day": 1,
     "name": "Healthy Homemade Granola",
     "imagePath": "https://joyfoodsunshine.com/wp-content/uploads/2017/08/healthy-homemade-granola-recipe-2.jpg",
     "ingredients": "¼ cup coconut oil, ¼ cup honey or pure maple syrup for vegan option, ½ tsp pure vanilla extract, 2 cups old-fashioned oats, ½ cup unsweetened shredded coconut, ½ cup raw pecans chopped, 2 tsp ground cinnamon, ½ tsp sea salt",
@@ -12,6 +13,7 @@
   },
 {
     "id": 2,
+    "day": 2,
     "name": "Avocado Toast with Fried Egg",
     "imagePath": "https://www.closetcooking.com/wp-content/uploads/2016/08/AvocadoToastwithFriedEgg8003733.jpg",
     "ingredients": "1 avocado, 1 tablespoon lemon juice (or lime juice), pinch salt, 4 eggs, 4 slices toast (gluten-free for gluten-free), salt and pepper to taste",
@@ -22,6 +24,7 @@
   },
 {
     "id": 3,
+    "day": 3,
     "name": "Healthy Chia Pudding",
     "imagePath": "https://joyfoodsunshine.com/wp-content/uploads/2021/01/chia-pudding-recipe-3.jpg",
     "ingredients": "1 cup milk (almond milk, cashew milk, whole milk, coconut milk, etc.), 2-4 TBS honey (or maple syrup) - to taste, 1 tsp pure vanilla extract, pinch fine sea salt, ¼ cup chia seeds, Optional toppings: fresh berries, sliced bananas, nut butter, extra maple syrup or honey, etc.",
