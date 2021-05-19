@@ -5,7 +5,7 @@
     "day": 1,
     "name": "Healthy Homemade Granola",
     "imagePath": "https://joyfoodsunshine.com/wp-content/uploads/2017/08/healthy-homemade-granola-recipe-2.jpg",
-    "ingredients": "¼ cup coconut oil, ¼ cup honey or pure maple syrup for vegan option, ½ tsp pure vanilla extract, 2 cups old-fashioned oats, ½ cup unsweetened shredded coconut, ½ cup raw pecans chopped, 2 tsp ground cinnamon, ½ tsp sea salt",
+    "ingredients": "1/4 cup coconut oil, 1/4 cup honey or pure maple syrup for vegan option, 1/2 tsp pure vanilla extract, 2 cups old-fashioned oats, 1/2 cup unsweetened shredded coconut, 1/2 cup raw pecans chopped, 2 tsp ground cinnamon, 1/2 tsp sea salt",
     "howtoprepare" : "Mix dry ingredients. Start by mixing the dry ingredients together, then set them aside! Combine & warm the wet ingredients. The trick here is you want to gently warm them either in the microwave or on the stovetop until they are just warm enough to be smooth and combined.Add Vanilla. be sure to add the vanilla to the wet ingredients after they have been removed from the heat! Mix it together! Add the wet ingredients to the dry ingredients and mix well! Be sure everything is evenly distributed! Bake! This is the most important step! If you want chunky granola be sure to press the granola together in the pan. Bake for 30 minutes. Test for doneness. The granola usually feels soft to the touch when it first comes out of the oven, but hardens as it cools. To test for doneness take a few pieces of granola off the baking pan and let it cool. If it hardens and becomes crunchy then it's done!",
     "preptime" : " 5 min",
     "calories" : "171 kcals"
@@ -31,6 +31,50 @@
     "howtoprepare" : "In a large bowl, whisk together milk, honey vanilla and sea salt until combined (it’s easier to incorporate honey if the milk is room temperature). Next, add the chia seeds and whisk to combine.  Then place the large bowl in the refrigerator to chill for 30 hour, stirring once halfway through.  NOTE: It's important to chill the mixture before transferring it into jars to ensure the chia seeds have started absorbing the liquid and they are evenly distributed throughout the mixture. Transfer the chia seed putting into 2-4 glass jars with lids and chill overnight in the refrigerator, or for at least 8 hours. Store this chia seed pudding in glass jars with airtight lids in the refrigerator for up to 5 days. I do not recommend freezing this chia pudding recipe. One chilled and thickened, serve this chia seed pudding with your favorite toppings. Here are some suggestions; Fresh or frozen & thawed berriesFresh fruits (bananas, apples, citrus fruits, etc.) Nut Butters (like this vanilla almond butter or this homemade peanut butter), unsweetened coconut, Candied almonds, Cinnamon Sugar pecans , Honey or Maple Syrup, Strawberry Sauce, Chocolate chips or cocoa nibs, Nuts (almonds, cashews, peanuts, etc.), Dried Fruits (cranberries, apricots, rasins, etc.)",
     "preptime" : " 8 h",
     "calories" : "173 kcals"
+   
+  },
+    {
+    "id": 4,
+    "day": 4,
+    "name": "Avocado toast with cherry romato salsa",
+    "imagePath": "https://peasandcrayons.com/wp-content/uploads/2019/04/avocado-toast-cherry-tomato-salsa-recipe-2.jpg",
+    "ingredients": "2 slices whole grain bread, 1 ripe avocado, 1/4-1/2 cup cherry tomato salsa (recipe below), 1 cup cherry tomatoes (halved or quartered), 1/2 cup finely diced white onion, 1 jalapeño pepper (seed + stem removed + minced), 2 TBSP chopped fresh cilantro plus extra to taste, 1/2 lime juiced, salt and pepper to taste",
+    "howtoprepare" : "For easy avo toast, you can make the salsa at the start of the week and enjoy on your toast all week long. Feel free to double or triple the recipe if desired or even try my black bean salsa as a tasty toast topper! Combine your salsa ingredients in a small bowl and season to taste with salt and pepper. Mix well and give it a taste. Feel free to add extra lime, cilantro, onion, and/or spices to taste. Toast your bread and arrange on a plate. Scoop the insides out of your avocado and smash onto toast. Top with salsa and an optional pinch of salt (I'm a salted tomato fanatic!) and dive in!",
+    "preptime" : " 15 min",
+    "calories" : "211 kcals"
+   
+  },
+    {
+    "id": 5,
+    "day": 5,
+    "name": "Garlic Butter Baked Salmon",
+    "imagePath": "https://i.pinimg.com/originals/4e/95/dd/4e95dd66e7e2fe4294203c3e9a2057bd.jpg",
+    "ingredients": "1.5 lb salmon filet, 4 tbsp unsalted butter softened, 4 Garlic cloves minced, 1 tsp salt, 1/2 tsp pepper, 1 tbsp fresh parsley chopped, 1 lemon zested, then cut into wedges",
+    "howtoprepare" : "Preheat oven to 425 degrees F. Arrange salmon on a baking sheet, pat salmon dry with a paper towel. set aside. (line baking sheet with foil for easy cleanup). In a small bowl, mix together softened butter, garlic, salt, pepper, parsley and lemon zest. Spread the butter mixture over the salmon. Bake salmon for 12-15 minutes, or until internal temperature reaches 145 degrees F. Squeeze lemon wedge over salmon before serving.",
+    "preptime" : " 20 min",
+    "calories" : "357 kcals"
+   
+  },
+     {
+    "id": 6,
+    "day": 6,
+    "name": "Creamy parmesan basil chicken",
+    "imagePath": "https://www.foxandbriar.com/wp-content/uploads/2019/04/Creamy-Basil-Chicken-2-of-6.jpg",
+    "ingredients": "1 pounds chicken breast 2 large breasts, 3 tablespoons butter, 4 large garlic cloves minced, 1/2 yellow onion finely minced, 3-4 ounces roasted red peppers thinly sliced, 1/4 teaspoon paprika, 1/2 cups heavy cream, 1 cup packed fresh basil leaves plus more for garnish, 1 cup fresh grated parmesan, 1/4 teaspoon crushed red pepper flakes, 1/2 cup white wine or chicken stock, salt to taste, black pepper to taste",
+    "howtoprepare" : "Cut breasts in half lengthwise, pound to even thickness. In a large non stick pan on medium-medium high heat, melt 2 tablespoons butter. Season chicken with salt and pepper, then sear, 4-5 minutes on each side, until just cooked. Remove from the pan and set aside. In the same skillet add 1 tablespoons butter. Add onion, garlic, peppers, paprika, red chili pepper flakes, salt and pepper. Saute for about five minutes, until onions and peppers are softened. Add wine to deglaze the skillet and bring to a gentle simmer until reduced by half. Reduce heat to medium low. Add cream to the skillet and stir until a creamy sauce forms. Taste and adjust seasoning with salt and pepper. Add Parmesan, stir until melted into sauce. Stir in basil, simmer until wilted, 1-2 minutes. Add chicken back to the skillet,  allow to warm up if needed.  Serve.",
+    "preptime" : " 35 min",
+    "calories" : "661 kcals"
+   
+  },
+    {
+    "id": 7,
+    "day": 7,
+    "name": "Garlic Butter Shrimp",
+    "imagePath": "https://www.foxandbriar.com/wp-content/uploads/2018/12/Easy-Garlic-Butter-Shrimp-7-of-9.jpg",
+    "ingredients": "1 pound Argentinean Pink Shrimp thawed, 4 clove garlic, 4 tablespoons butter divided, 1/4 cup lemon juice, 1/4 cup chopped parsley, 1 teaspoon red pepper flakes optional, kosher salt, black pepper",
+    "howtoprepare" : "In a large sauté pan over medium to medium-high heat, melt two tablespoons of butter.  Add the garlic and red pepper flakes  Cook for about 30 seconds, until fragrant, do not allow garlic to burn. Add the shrimp to the pan.  Cook for about 90 seconds, then turn and cook for 90 seconds more. Add the other 2 tablespoons of butter, lemon juice, salt, and pepper.  Cook for 1 minute, or until butter is melted.  Stir in parsley.  Remove from heat.",
+    "preptime" : " 10 min",
+    "calories" : "224 kcals"
    
   }
     ]
