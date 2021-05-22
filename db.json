@@ -87,6 +87,17 @@
     "preptime" : "20 min",
     "calories" : "298 kcals"
    
+  },
+    {
+    "id": 9,
+    "day": 9,
+    "name": "Quick chicken roast",
+    "imagePath": "https://img.delicious.com.au/6nfRPUUS/del/2015/10/quick-chicken-roast-13852-1.jpg",
+    "ingredients": "6 thyme sprigs, leaves picked, 4 anchovies in oil, drained, chopped, 2 teaspoons dried oregano, 1 teaspoon chilli flakes, 2 tablespoons olive oil, 2 garlic cloves, chopped, Finely grated zest of 1 lemon, 8 Lilydale Free Range Chicken Thighs (bone in, skin on), 800g baby kipfler potatoes, halved lengthways, 100g speck or streaky bacon, cut into 5mm-thick batons, 250g baby truss tomatoes",
+    "howtoprepare" : "Preheat the oven to 200C. Combine the thyme, anchovies, oregano, chilli, oil, garlic and lemon zest in a bowl. Add the chicken and turn to coat. Add the potatoes and toss to combine. Place on a large baking tray and scatter over the speck. Cut the zested lemon into wedges and add to the tray. Season and roast for 40 minutes or until chicken is golden and potatoes tender. Remove from the oven and top with tomatoes. Roast for a further 10-15 minutes until tomatoes are blistered.Squeeze over roasted lemon juice to serve.",
+    "preptime" : "60 min",
+    "calories" : "340 kcals"
+   
   }
     ]
  
